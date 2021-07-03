@@ -151,3 +151,16 @@ body{
 .toggle.active ion-icon.open{
     display: none;
 }
+
+/* Next code come here*/
+.content {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.content h1{
+    color: #4d5bf9;
+    font-size: 3em;
+}
