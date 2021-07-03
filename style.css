@@ -159,13 +159,12 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
+    width: 100%;
 }
 .content h1{
     color: #4d5bf9;
     font-size: 3em;
-}
-
-.content h3{
-    color: #4d5bf9;
-    font-size: 1.3em;
+    width: 100%;
+    display: flex;
+    justify-content: center;
 }
