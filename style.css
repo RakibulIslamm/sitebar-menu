@@ -164,7 +164,4 @@ body{
 .content h1{
     color: #4d5bf9;
     font-size: 3em;
-    width: 100%;
-    display: flex;
-    justify-content: center;
 }
